@@ -6,4 +6,4 @@ This tool is used to create, edit and view xmls that define objects in the game 
 
 Please visit Monster Engine homepage for more information about the project.
 
-[http://monsterengine.sourceforge.net/]  
+(http://monsterengine.sourceforge.net/)  
