@@ -1,0 +1,10 @@
+Ogrey Tool Beta 1
+
+Ogrey Monster Engine Entity Tool will help you to create/import/export monster engine entity XML files.
+
+It is also a good Ogre3d mesh viwer and are written in Python.  
+
+Ogrey Tool 2007 Erik Johansson ejevik@hotmail.com www.opengd.org - www.monsterengine.org
+
+This Beta includes:
+Bugs and lots of them.

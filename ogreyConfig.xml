@@ -1,0 +1,6 @@
+<ogreyConfig>
+    <resources>
+		<entities path="..\..\engine\scripts\xml" ext=".xml"/>
+        <materials path="..\..\engine\media\materials" ext=".material"/>
+    </resources>
+</ogreyConfig>
